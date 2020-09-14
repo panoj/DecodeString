@@ -1,5 +1,6 @@
 # DecodeString
-public string Decode(string input) {
+
+         public string Decode(string input) {
             if (input == null || input == string.Empty)
                 return string.Empty;
 
